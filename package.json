@@ -1,0 +1,10 @@
+{
+  "name": "md-convert-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "marked": "^5.0.1"
+  }
+}
